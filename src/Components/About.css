@@ -1,0 +1,39 @@
+.pastorcard {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  margin: auto;
+}
+
+.pastors {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+#mark {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
+#pete {
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
+.leaders {
+  display: flex;
+  justify-content: center;
+  height: 120px;
+}
+#leaderh {
+  color: white;
+}
+.abouthero {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 120px;
+}
+#subheading {
+  margin-top: -20px;
+}

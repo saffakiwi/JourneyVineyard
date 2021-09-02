@@ -1,0 +1,43 @@
+.top {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.groups {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.lifeheader {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.main {
+  display: flex;
+  height: 780px;
+}
+.ltext {
+  color: #b3b8ba;
+  text-align: center;
+}
+#grouptext {
+  color: #b3b8ba;
+  text-shadow: none;
+  font-size: 15px;
+  margin-top: -30px;
+}
+#groupheading {
+  color: #4399b5;
+  text-shadow: none;
+  font-size: 50px;
+  font-family: "Mina";
+  margin-top: 10px;
+}
+.bannertext {
+  display: flex;
+  flex-direction: column;
+  height: 210px;
+  width: 90%;
+  margin: auto;
+}

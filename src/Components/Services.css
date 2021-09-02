@@ -1,0 +1,51 @@
+.services {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 40px;
+}
+.servicecard {
+  display: flex;
+}
+#serviceheading {
+  font-family: "Mina";
+  color: #4399b5;
+  text-shadow: none;
+}
+#servicetext {
+  font-family: "Mina";
+  color: #4399b5;
+  font-size: 18px;
+  text-shadow: none;
+  width: 90%;
+  margin: auto;
+  margin-top: -40px;
+}
+
+.smap {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+#location {
+  display: flex;
+  width: 50%;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+#map {
+  display: flex;
+  width: 50%;
+}
+#infoheader {
+  color: #4399b5;
+  font-size: 20px;
+  text-align: center;
+}
+#serviceinfo {
+  color: #4399b5;
+  font-size: 18px;
+  text-align: justify;
+}

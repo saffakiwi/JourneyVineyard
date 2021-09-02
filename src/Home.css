@@ -1,0 +1,20 @@
+#mainlogo {
+  margin-top: 5px;
+  height: 70px;
+  width: 110px;
+}
+
+.appmain {
+  display: flex;
+  width: 50%;
+}
+
+.bgroup {
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+}
+
+.render {
+  display: flex;
+}

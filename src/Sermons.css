@@ -1,0 +1,13 @@
+.playcard {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-right: 20px;
+  margin-top: 10px;
+}
+
+.Icons {
+  display: flex;
+  margin: auto;
+  margin-right: 0px;
+}

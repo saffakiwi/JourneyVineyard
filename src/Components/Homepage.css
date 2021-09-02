@@ -1,0 +1,161 @@
+.fpage {
+  height: 100%;
+  width: 100%;
+  background-color: #4399b5;
+  margin-top: 60px;
+}
+.header {
+  display: flex;
+  height: 600px;
+}
+.events {
+  display: flex;
+  flex-direction: column;
+  height: 550px;
+  width: 90%;
+  margin: auto;
+  margin-top: -50px;
+}
+.eventcards {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+#etext {
+  color: white;
+  font-family: "Mina", sans-serif;
+  margin-bottom: -70px;
+  height: 170px;
+}
+#welcome {
+  font-family: "Mina", sans-serif;
+  color: #4399b5;
+}
+#heroheading {
+  font-family: "Mina", sans-serif;
+  color: white;
+}
+#subheading {
+  font-family: "Mina", sans-serif;
+  color: white;
+}
+.bg-image {
+  width: 100%;
+  height: 600px;
+  display: flex;
+  object-fit: scale-down;
+}
+
+.mainpage {
+  display: flex;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  color: #4399b5;
+}
+
+#feast {
+  display: flex;
+  object-fit: fill;
+  margin-left: -25px;
+  height: 400px;
+  width: 500px;
+}
+h1 {
+  font-size: 50px;
+  text-shadow: 1px 1px white;
+  font-family: "Mina", sans-serif;
+}
+
+p {
+  font-size: 30px;
+  text-shadow: 1px 1px white;
+  font-family: "Mina", sans-serif;
+}
+
+#valuepic {
+  display: flex;
+}
+
+#hearttext {
+  font-size: 18px;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.ourheart {
+  display: flex;
+  height: 550px;
+}
+.footer {
+  display: flex;
+  height: 550px;
+}
+.contactfooter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 30px;
+  width: 50%;
+}
+.socialfooter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  margin: 30px;
+  width: 50%;
+}
+#contacttext {
+  font-size: 40px;
+  margin: 10px;
+  color: #4399b5;
+  text-shadow: none;
+  justify-content: center;
+}
+.footercontent {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.footerlinks {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+.links {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.hlinks {
+  color: #2f6882;
+  text-decoration: underline #b3b8ba;
+  font-family: "Mina", sans-serif;
+  font-size: 40px;
+}
+.vineyardfooter {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  margin: auto;
+}
+#logov {
+  width: 25%;
+  margin: auto;
+}
+#textv {
+  width: 75%;
+  margin: auto;
+  font-size: 30px;
+}
+#textv p {
+  margin: auto;
+  font-size: 20px;
+  color: #b3b8ba;
+}
